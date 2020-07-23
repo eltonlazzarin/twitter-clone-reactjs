@@ -18,8 +18,6 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/twitter-clone-reactjs">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/twitter-clone-reactjs">
-
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/fc7cfcf6-7748-454b-b192-7dd83b7db91d/deploy-status">
 </p>
 
 <p align="center">
@@ -33,11 +31,8 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/discord-clone/blob/master/screenshots/discordclone.gif" />
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/twitter-clone-reactjs/blob/master/screenshots/twitterclone.gif" />
 </h1>
-
-<p align="center">
-  <button><a href="https://discord-clone-ui.netlify.app/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
 <p>Twitter Clone is a project developed in ReactJS in conjunction with TypeScript, where it shows an almost identical interface to the Twitter user profile page, as well as showing the tweets sent by them.
 
