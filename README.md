@@ -103,4 +103,4 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/discord-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/twitter-clone-reactjs/blob/master/LICENSE) for more information.
