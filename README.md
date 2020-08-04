@@ -82,7 +82,7 @@ $ yarn start
 # Clone your fork
 $ git clone https://github.com/eltonlazzarin/twitter-clone-reactjs.git
 
-$ cd discord-clone
+$ cd twitter-clone-reactjs
 
 # Create a branch with your feature
 $ git checkout -b your-feature
