@@ -6,8 +6,6 @@
   Twitter Clone build in ReactJS and TypeScript
 </h3>
 
-<p align="center"></p>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/twitter-clone-reactjs">
 
